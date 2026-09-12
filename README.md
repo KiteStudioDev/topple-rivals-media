@@ -1,7 +1,7 @@
-# Topple Rivals — official media kit
+# Topple Rivals — official game showcase
 
-Public promotional materials for Topple Rivals by Kite Studio.
+Game introduction, artwork previews and silent gameplay videos for Topple Rivals by Kite Studio.
 
 Website: https://kitestudiodev.github.io/topple-rivals-media/
 
-Includes three cover images, two silent gameplay preview videos and a downloadable media kit. Single-player HTML5 physics throwing game. No game source, saves or private development files are included.
+This page is for viewing. Download buttons and the complete media-kit ZIP were removed on 2026-09-12 at the owner's request. No game source, saves or private development files are included.
