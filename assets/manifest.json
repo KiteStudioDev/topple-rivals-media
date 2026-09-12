@@ -1,0 +1,27 @@
+[
+  {
+    "file": "cover-landscape.png",
+    "bytes": 5405038,
+    "sha256": "22c8251d0e528354c258e961d40be34376aafb2c752c294d134aaf1e60b33027"
+  },
+  {
+    "file": "cover-portrait.png",
+    "bytes": 2627101,
+    "sha256": "b9a6e9d028bc7e8a4786710491f5457540c0b0692060c92be06567ee6ce616d4"
+  },
+  {
+    "file": "cover-square.png",
+    "bytes": 1718155,
+    "sha256": "a7a568be34829e21c4b1a3260a3614f4e41ae044a131587439d2af605654da79"
+  },
+  {
+    "file": "preview-landscape.mp4",
+    "bytes": 6162446,
+    "sha256": "713489566024a6ef5e6ff65088d811904b73e60badbe9661535234de0b6097d1"
+  },
+  {
+    "file": "preview-portrait.mp4",
+    "bytes": 7187445,
+    "sha256": "471b5eae87306e0b24fc59952ba430e7915e6f6a7cd023a8c347d06cc0050262"
+  }
+]
