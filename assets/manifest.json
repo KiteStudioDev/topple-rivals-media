@@ -1,27 +1,27 @@
 [
   {
     "file": "cover-landscape.png",
-    "bytes": 5405038,
-    "sha256": "22c8251d0e528354c258e961d40be34376aafb2c752c294d134aaf1e60b33027"
+    "bytes": 4770482,
+    "sha256": "36d97240b3efbfaf50e2624ee67cd74175ac475b26ec9a3984e3fe6e11785279"
   },
   {
     "file": "cover-portrait.png",
-    "bytes": 2627101,
-    "sha256": "b9a6e9d028bc7e8a4786710491f5457540c0b0692060c92be06567ee6ce616d4"
+    "bytes": 2620081,
+    "sha256": "9560e3f83aa421021486f3ae32c6e396390171875ffbb5baf9e12e04269b4adf"
   },
   {
     "file": "cover-square.png",
-    "bytes": 1718155,
-    "sha256": "a7a568be34829e21c4b1a3260a3614f4e41ae044a131587439d2af605654da79"
+    "bytes": 1823462,
+    "sha256": "74d449ab69498c08479ad6c3558b5ddc007e90dac9c8400d09b38c92b2ccbca6"
   },
   {
     "file": "preview-landscape.mp4",
-    "bytes": 6162446,
-    "sha256": "713489566024a6ef5e6ff65088d811904b73e60badbe9661535234de0b6097d1"
+    "bytes": 4866551,
+    "sha256": "36fe36350c22d367f7e18cb798121b416cdc3cc937a52bd68fda5b9fc3448c12"
   },
   {
     "file": "preview-portrait.mp4",
-    "bytes": 7187445,
-    "sha256": "471b5eae87306e0b24fc59952ba430e7915e6f6a7cd023a8c347d06cc0050262"
+    "bytes": 4890407,
+    "sha256": "79987f68814c835830f439d2fd77e79a3207e1603871ff0e510e57bd9f747040"
   }
 ]
